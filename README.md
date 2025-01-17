@@ -25,12 +25,18 @@ As we grow, this repository will include:
 
 ---
 
-## **💬 Contact Us**  
-For any inquiries or if you’d like to get involved, feel free to reach out:  
+## **💬 Community & Contact**  
+Stay connected with us and join the blockchain revolution!  
 
-📩 **Email:** `tunacevik0330@gmail.com`      
+🌐 **Website:** [Coming Soon]  
+📢 **Twitter:** [@iyte_blockchain](#)  
+📷 **Instagram:** [iyte_blockchain](#)  
 
-🔗 **Join us in learning and building the future of blockchain! 🚀**  
+📩 **For collaborations and inquiries, contact us at:** `iyteblockchain@iyte.edu.tr`  
+
+🔗 **Empowering the future of decentralization. Join us! 🚀**  
+
+---
 
 ---
 
